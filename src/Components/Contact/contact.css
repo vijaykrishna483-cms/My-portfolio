@@ -1,0 +1,20 @@
+.contact{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 10%;
+}
+.text-contact{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.text{
+    font-size: 20px;
+}
+.iconu{
+    width: 25px;
+    height: 25px;
+}

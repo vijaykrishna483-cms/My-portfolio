@@ -1,0 +1,38 @@
+.About-body{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-left: 8%;
+    width: 80%;
+    margin-left: 15%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.back-image{
+    display: flex;
+    height:400px;
+    width: 400px;
+    margin-top: 65px;
+    padding-right: 100px;
+    border:0 0;
+    border-radius: 10px;
+}
+
+.head{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+@media (max-width: 768px){
+   
+    .About-body{
+      display: flex;
+      flex-direction: column;
+      font-size: medium;
+    }
+  
+  .back-image{
+    margin-left: 5%;
+  }
+  }
