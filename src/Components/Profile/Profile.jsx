@@ -1,6 +1,7 @@
 import React from 'react';
 import './Profile.css';
 import { motion } from "framer-motion"
+import cvvImage  from '../Assets/cv.pdf'
 
 const Profile = () => {
   return (
@@ -28,7 +29,7 @@ const Profile = () => {
             <button className="contactinfo" style={{ animationDelay: '0.6s' }} onClick={() => { window.location.href = './#contact'; }}>
               contact info
             </button>
-            <button className="Download-CV" style={{ animationDelay: '0.8s' }} onClick={() => { window.open('./images/Data science AI and ML Marketing.jpg'); }}>
+            <button className="Download-CV" style={{ animationDelay: '0.8s' }} onClick={() => { window.open(cvvImage); }}>
               Download CV
             </button>
           </div>
@@ -43,7 +44,7 @@ const Profile = () => {
               src="icons8-whatsapp-48.png"
               alt="my whatsapp profile"
               className="icon"
-              onClick={() => { window.location.href = 'https://wa.me/8943687489'; }}
+              onClick={() => { window.location.href = 'https://wa.me/+918943687489'; }}
             />
           </div>
         </div>
