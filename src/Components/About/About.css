@@ -8,6 +8,9 @@
     margin-left: 15%;
     margin-top: 5%;
     margin-bottom: 5%;
+    position: relative;
+    z-index: 10;
+    color: white;
 }
 .back-image{
     display: flex;
@@ -16,12 +19,15 @@
     margin-top: 65px;
     padding-right: 100px;
     border:0 0;
-    border-radius: 10px;
+    border-radius:100%;
 }
 
 .head{
     font-size: 30px;
     margin-bottom: 20px;
+    color:#00bfff;
+    font-weight: bold;
+    text-align: center;
 }
 
 @media (max-width: 768px){

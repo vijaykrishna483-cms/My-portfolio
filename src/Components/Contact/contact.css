@@ -6,10 +6,15 @@
     align-items: center;
     margin-top: 50px;
     margin-bottom: 10%;
+    position: relative;
+    z-index: 10;
+    color: wheat;
 }
 .text-contact{
     font-size: 30px;
     margin-bottom: 20px;
+    color:#00bfff;
+    font-weight: bold;
 }
 .text{
     font-size: 20px;

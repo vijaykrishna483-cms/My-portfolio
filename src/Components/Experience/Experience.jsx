@@ -3,6 +3,7 @@ import './Experience.css'
 import { motion } from "framer-motion"
 const Experience = () => {
   return (
+    
     <section id='experience'>
     <div className='Exp-main'>
       <div className='text-exp'>Experiences</div>
