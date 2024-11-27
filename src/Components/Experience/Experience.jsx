@@ -1,6 +1,7 @@
 import React from 'react'
 import './Experience.css'
 import { motion } from "framer-motion"
+
 const Experience = () => {
   return (
     
@@ -17,7 +18,7 @@ const Experience = () => {
         </div>
         <div className='sub'>
             <div className='date'>2024 june-Present</div>
-            <div className='para'> <p className='p'>UI/UX Designer -Super coordinator</p>
+            <div className='para'> <p className='p'>Senior Developer</p>
             <p> Super-coordinator at IITM Annual cultural fest Saarang Devops team,Working in figma for the webdesigns of saarang offcial and other portals regarding saarang fest.</p>
             </div>
         </div>

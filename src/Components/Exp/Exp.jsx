@@ -5,6 +5,7 @@ import { IoLogoCss3 } from "react-icons/io";
 import { FaFigma } from "react-icons/fa";
 import { FaPython } from "react-icons/fa";
 import { IoLogoJavascript } from "react-icons/io5";
+import { RiTailwindCssFill } from "react-icons/ri";
 import'./Exp.css'
 const Exp = () => {
   return (
@@ -17,6 +18,8 @@ const Exp = () => {
       <FaFigma className='icons' style={{ color: 'violet' ,animationDelay: '0.6s'}}/>
       <FaPython className='icons' style={{ color: 'yellow',animationDelay: '0.8s' }}/>
       <IoLogoJavascript className='icons'style={{ color: '#d5b931' ,animationDelay: '1s'}}/>
+      <RiTailwindCssFill className='icons'style={{ color: '#38bdf8' ,animationDelay: '1.2s'}}/>
+
       </div>
     </div>
   )

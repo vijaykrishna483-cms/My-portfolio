@@ -51,9 +51,11 @@ const Profile = () => {
               <button className="contactinfo"  onClick={() => { window.location.href = './#contact'; }}>
                 contact info
               </button>
-              <button className="Download-CV"  onClick={() => { window.open(cvvImage); }}>
+              <a href='https://drive.google.com/file/d/1I5_eLft0ORYn_lg5mfNAXWcD9Tqi8Cmu/view?usp=sharing'>
+              <button className="Download-CV"   >
                 Download CV
               </button>
+              </a>
             </div>
             <div id="social-container">
               <img 

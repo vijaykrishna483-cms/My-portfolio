@@ -8,11 +8,13 @@ const About = () => {
       
       <div>
         <div className='head'>About Me</div>
-        <div className='desc'>Hello! I'm Vijay Krishna, a passionate web developer and UI/UX designer with a keen eye for detail and a love for creating engaging user experiences. Currently, I'm a sophomore at the Indian Institute of Technology, studying Naval Architecture and Ocean Engineering. My skills include front-end development, particularly with React, and UI/UX design, where I excel in tools like Figma.
+        <div className='desc'>Hello! I'm a passionate and experienced Frontend Developer with a strong foundation in React and a proven track record of building over 20 dynamic, user-focused websites. I specialize in creating seamless, responsive web applications that offer intuitive user experiences and sleek designs. My approach is centered around delivering high-quality code while continuously learning and adapting to new technologies and trends in the industry.
 
-<br/><br/>I've interned as a UI/UX designer at EMblock Private Limited, where I designed a user-friendly website for a perfume brand. This experience not only honed my design skills but also deepened my understanding of user-centered design principles. I'm always eager to learn and take on new challenges, constantly striving to improve my craft and deliver exceptional digital experiences.
+I take pride in transforming ideas into reality, working from the ground up on projects ranging from small personal websites to large-scale web applications. I have had the opportunity to collaborate on various websites, including the Saarang sales portal, Shaastra’s JMT and Conference portals, and several personal and client projects. My portfolio showcases a blend of creativity and technical expertise that ensures the best possible outcome for every project.
 
-&nbsp In my free time, I enjoy exploring the latest web development trends and working on personal projects that push the boundaries of my creativity and technical skills. I'm excited about the future of web development and look forward to contributing to innovative and impactful projects</div>
+As a React enthusiast, I am always exploring new libraries and frameworks to stay ahead of the curve. I am driven by the challenge of creating smooth, interactive interfaces and I thrive in fast-paced environments where problem-solving and innovation are key.
+
+If you’re looking for a frontend developer who is dedicated, creative, and eager to bring your vision to life, I would love to connect!</div>
       </div>
       <div>
         <img src='back.png'alt='' className='back-image'/>
